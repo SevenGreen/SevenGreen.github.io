@@ -1,0 +1,31 @@
+header{
+	background-color: yellow;
+	text-align: center;
+	height: 70px;
+}
+nav{
+	background-color: red;
+	text-align: center;
+	color: white;
+	width: 100px;
+	float: left;
+	height: 300px;
+}
+section{
+	background-color: green;
+	text-align: center;
+	color: white;
+	height: 300px;
+}
+article{
+	background-color:black;
+	text-align: center;
+	color: white;
+	margin: 20px 0 20px 0;
+}
+footer{
+	background-color: blue;
+	text-align: center;
+	color: white;
+	height: 50px;
+}
